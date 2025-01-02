@@ -156,7 +156,7 @@ As part of that, we've learned how to:
 ## Next steps
 
 * Take a look at your {% data variables.product.product_name %} profile and you'll see your work reflected on your contribution graph.
-* If you want to practice the skills you've learned in this tutorial again, try the [{% data variables.product.prodname_learning %}](https://skills.github.com/) "Introduction to {% data variables.product.prodname_dotcom %}" course.
+* If you want to practice the skills you've learned in this tutorial again, try the [{% data variables.product.prodname_learning %}](https://skills.github.com/) "Introduction to {% data variables.product.prodname_dotcom %}" course.    
 * In the next tutorial, [AUTOTITLE](/get-started/start-your-journey/setting-up-your-profile), you'll learn how to personalize your profile and you'll also learn some basic Markdown syntax for writing on {% data variables.product.product_name %}.
 
 ## Further reading
